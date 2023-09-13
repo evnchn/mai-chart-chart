@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         mai-chart-chart
-// @namespace    https://mai-speed.evnchn.io
+// @namespace    https://github.com/evnchn/mai-chart-chart
 // @version      1.0
 // @description  Generates a chart and exports the chart data of mai-tools Rating Analyzer
 // @author       evnchn
