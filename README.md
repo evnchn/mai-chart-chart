@@ -10,7 +10,8 @@ Generates a chart and exports the chart data of mai-tools Rating Analyzer
 (Tap anywhere to close)
 
 ## Result
-It'll pop up a chart like this
+It'll pop up a chart like this. 
+
 Again, no real data is shown, since I suck at maimai
 
 ![image](https://github.com/evnchn/mai-chart-chart/assets/37951241/870b27ab-f2fb-4733-9a28-93437de03601)
