@@ -16,4 +16,9 @@ Again, no real data is shown, since I suck at maimai
 
 ![image](https://github.com/evnchn/mai-chart-chart/assets/37951241/870b27ab-f2fb-4733-9a28-93437de03601)
 
+## This is based on
+[My previous GitHub Gist](https://gist.github.com/evnchn/138eddf719b783d8d39a1a421049c94a)
+
+Making a userscript takes just an hour with the help with Poe and GenAI
+
 
