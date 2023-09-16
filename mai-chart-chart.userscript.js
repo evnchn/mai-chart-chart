@@ -1,12 +1,16 @@
 // ==UserScript==
 // @name         mai-chart-chart
 // @namespace    https://github.com/evnchn/mai-chart-chart
-// @version      1.0
+// @version      1.1
 // @description  Generates a chart and exports the chart data of mai-tools Rating Analyzer
 // @author       evnchn
 // @match        https://myjian.github.io/mai-tools/rating-calculator/*
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/evnchn/mai-chart-chart/main/mai-chart-chart.userscript.js
+// @updateURL    https://raw.githubusercontent.com/evnchn/mai-chart-chart/main/mai-chart-chart.userscript.js
 // ==/UserScript==
+
+// V1.1: Self-update
 
 (function () {
     'use strict';
